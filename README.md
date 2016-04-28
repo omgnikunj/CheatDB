@@ -1,5 +1,7 @@
 # CheatDB
 Simple Cheat Database for - PSP (GTA VICE CITY)
 
-Easy to find Cheats.<br>
-Simple type Effects you want.
+<ul>
+<li>Easy to find Cheats.</li>
+<li>Simple type Effects you want.</li>
+</ul>
